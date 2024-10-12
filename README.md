@@ -13,7 +13,7 @@ Dependencies:
 - zod
 
 
-This project is a Single Page Application tool to manage personal or professional routine, like remember to chill out after focusing some time on one single activity, take a break and get a coffee or just stand up to strech a little.
+This project is a Single Page Application tool to manage personal or professional routine, creating a time focus goal on a task or just to remember to chill out after focusing some time on one single activity, take a break and get a coffee or just stand up to strech a little.
 <br><br>
 You can set an activity that you want to create a timer between 5 to 60 minutes with 5 minutes steps and it has 3 status:
 <br>
